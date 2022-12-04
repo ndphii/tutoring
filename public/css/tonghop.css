@@ -1,0 +1,199 @@
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+#bangron{
+    margin: 0px;
+    padding: 0px;
+}
+#bangron{
+    background: #4e40bf;
+    width: 100%;
+    height: 130px;
+}
+#bangron h5{
+    margin-top: 25px ;
+    color: white;
+}
+#user {
+    margin: -41px 0px 0px 0px;
+}
+#iconlhmautrang a i{
+    font-size: 20px;
+    color: white;
+    margin: 12px 0px 10px 10px ;
+}
+.footer #iconlhft2 i{
+    float: left;
+    color: #9acd32;
+    margin-right: 25px;
+}
+.header-top{
+    margin: 0px;
+    padding: 0px;
+}
+.header-top{
+    background: #4e40bf;
+    width: 100%;
+    height: 44px;
+}
+.navbar{
+    opacity: 0.9;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar li a{
+    font-size: 16px !important;
+    font-family: "Roboto", sans-serif;
+    margin: 10px 20px 10px 30px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #d6eff3;
+}
+
+.navbar li a:hover{
+    color: #4e40bf !important;
+}
+
+
+.main{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background:#d6eff3;
+    width: 100%;
+    min-height: 300px;
+}
+#iconlhft2 i{
+            float: left;
+            color: #9acd32;
+            margin-right: 25px;
+        }
+#iconlhft3 a i{
+    font-size: 20px;
+    color: #4d4d4d;
+    margin: 10px 10px 10px 10px ;
+}
+.copyright p{
+    color: white;
+    background: #3a3a38;
+    font-size: 13px;
+    width: 100% ;
+    min-height: 40px;
+    margin-bottom: 0;
+}
+.relative {
+    position: relative !important;
+}
+.section-content {
+    z-index: 1;
+}
+.section-bg, .section-content {
+    width: 100%;
+}
+.align-middle {
+    align-items: center !important;
+    align-self: center !important;
+    vertical-align: middle !important;
+}
+[data-animated="true"], .slider .is-selected [data-animated="true"], .row-slider.slider [data-animated="true"] {
+    animation-delay: .1s;
+    transform: translate3d(0, 0, 0) scale(1);
+    opacity: 1 !important;
+}
+[data-animate="bounceIn"], .slider [data-animate="bounceIn"] {
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+}
+[data-animate], .slider [data-animate] {
+    will-change: filter, transform, opacity;
+    -webkit-backface-visibility: hidden;
+    animation-fill-mode: forwards;
+    opacity: 0 !important;
+    transition: filter 1.3s, transform 1.6s, opacity 0.7s ease-in;
+}
+.medium-8 {
+    max-width: 66.66667%;
+    -ms-flex-preferred-size: 66.66667%;
+    flex-basis: 66.66667%;
+}
+.small-12 {
+    max-width: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+}
+.col {
+    padding-bottom: 30px;
+}
+.col, .gallery-item, .columns {
+    position: relative;
+    margin: 0;
+    padding: 0 15px 30px;
+    width: 100%;
+}
+.dark, .dark p, .dark td {
+    color: #f1f1f1;
+}
+
+.col-inner {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+}
+.row .gallery, .row .row:not(.row-collapse), .container .row:not(.row-collapse), .lightbox-content .row:not(.row-collapse) {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: -15px;
+    margin-right: -15px;
+    width: auto;
+}
+.medium-6 {
+    max-width: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+}
+.small-6 {
+    max-width: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+}
+.col {
+    padding-bottom: 30px;
+}
+.text-left {
+    text-align: left;
+}
+
+.icon-box-left, .icon-box-right {
+    -js-display: flex;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    width: 100%;
+}
+.icon-box-left .icon-box-img, .icon-box-right .icon-box-img {
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    margin-bottom: 0;
+    max-width: 200px;
+}
+.icon-box .icon-box-img {
+    margin-bottom: 1em;
+    max-width: 100%;
+    position: relative;
+}
+.icon-box-left .icon-box-img+.icon-box-text {
+    padding-left: 1em;
+}
+
+.icon-box-left .icon-box-text, .icon-box-right .icon-box-text {
+    -ms-flex: 1 1 0px;
+    flex: 1 1 0px;
+}
